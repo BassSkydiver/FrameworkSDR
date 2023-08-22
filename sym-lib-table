@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CONSMA003.031")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbols/CONSMA003.031.kicad_sym")(options "")(descr ""))
+  (lib (name "RTL2832U")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbols/RTL2832U.kicad_sym")(options "")(descr ""))
+  (lib (name "SDR")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbols/SDR.kicad_sym")(options "")(descr ""))
+)
